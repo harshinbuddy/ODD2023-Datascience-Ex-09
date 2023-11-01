@@ -18,9 +18,9 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE AND OUTPUT:
-Name: Abishek Xavier A
+Name: HARSHINI M
 
-Reg no:212222230004
+Reg no:212220220016
 
 ```
 import seaborn as sns
